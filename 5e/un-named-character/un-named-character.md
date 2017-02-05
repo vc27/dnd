@@ -45,7 +45,7 @@
 
 - Personality Trait:
 - Ideal:
-- Bond: Kujō clan, Kitano Shrine
+- Bond: (Kujō clan)[https://en.wikipedia.org/wiki/Kuj%C5%8D_family], (Kitano Tenmangū Shrine)[https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB]
 - Flaw:
 
 ### Chinese history
@@ -56,4 +56,3 @@
 - Family moved from Japan to China as international trade advisors which was seen as betraying their clan.
 - At age 24 returns to family estate which has been kept up by the serving families under a trust left by my parents.
 - My return is that political need, the current estate of the family is under the strict guidelines of the trust. I do not have access to anything financially apart from the ability to stay at the estate and utilize it's comforts.
--
