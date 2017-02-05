@@ -58,16 +58,21 @@ following benefits.
 # Background
 
 ### Noble
+
 - Tool Proficiencies: One type of gaming set: Chinese Game "Go".
 - Languages: One of your choice: Chinese
 - Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
 
 ### Kujo clan Crest
+
+- The clan crest is tattooed in a 3x3 in circle in the middle of his back.
+- The crest is also engraved on the Tanto handles and Shuriken
+
 ![Kujo clan Crest](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kujokamon.svg/390px-Kujokamon.svg.png)
 
 ### Characteristics
 
-- Personality Trait: Self confident
+- Personality Trait: Believes that I am the savior of the clan and the link between the old and new ways. I will purge my clan of it's greed and lies while re-forging the path its head.
 - Ideal: Our clan is will survive the restructuring of this new era
 - Bond: [Kujō clan](https://en.wikipedia.org/wiki/Kuj%C5%8D_family), [Kitano Tenmangū Shrine](https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB)
 - Flaw: My family branch has been scandalized by moving to Beijing for years. I am now seen as an outsider though my status is still technically recognized.
@@ -75,6 +80,7 @@ following benefits.
 # History
 
 ### Chinese history
+
 - [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty)
 - Traveled to Beijing China with my parents
 - Was trained by my fathers personal assistant in arts of martial warfare and espionage
@@ -90,5 +96,12 @@ following benefits.
 
 - Family moved from Japan to China as international trade advisors which was seen as betraying their clan.
 - At age 24 returns to family estate which has been kept up by the serving families under a trust left by my parents.
-- My return is of political need, the current estate of the family is under duress. When I return find the estate is apparently as I left it, but I do not have access to anything financially. Apart from the ability to stay at the estate and utilize it's comforts I am essentially poor.
-- My noble name is all that I have left from the eyes of society.
+- Kanezane's return is of political need, the current estate of the family is under duress. When Kanezane return he found the estate in similar condition to when he left it, but he do not have access to anything financially. Apart from the ability to stay at the estate and utilize it's comforts he is essentially of little wealth.
+- Kanezane noble name, Kujō, is all that he has left from the onlooking eyes of society.
+- Kanezane returned to his home town 2 years ago and has been living his life quietly.
+
+### Dual lives
+
+Kanezane lives a dual life. He is a well groomed man of position and wealth. His daily routine is to see to his family estate needs as well as regional ties and factions. When he hears words of corruption or miss dealing with in his clan or aimed at his clan he takes action.
+
+When Kanezane fights he chooses the best blade for the task, he doesn't favor one tool over the other necessarily.
