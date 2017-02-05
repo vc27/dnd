@@ -45,7 +45,7 @@
 
 - Personality Trait:
 - Ideal:
-- Bond: (Kujō clan)[https://en.wikipedia.org/wiki/Kuj%C5%8D_family], (Kitano Tenmangū Shrine)[https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB]
+- Bond: [Kujō clan](https://en.wikipedia.org/wiki/Kuj%C5%8D_family), [Kitano Tenmangū Shrine](https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB)
 - Flaw:
 
 ### Chinese history
