@@ -63,7 +63,7 @@ following benefits.
 - Equipment: A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
 
 ### Kujo clan Crest
-![Kujo clan Crest](https://en.wikipedia.org/wiki/Kuj%C5%8D_family#/media/File:Kujokamon.svg)
+![Kujo clan Crest](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kujokamon.svg/390px-Kujokamon.svg.png)
 
 ### Characteristics
 
