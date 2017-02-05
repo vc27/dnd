@@ -86,7 +86,7 @@ following benefits.
 - Was trained by my fathers personal assistant in arts of martial warfare and espionage
 - Was trained to fight in simple hand to hand combat as well as Tantos and Shuriken
 - Was taught to speak and act as a Japanese noble
-- Learned to Mandarin based on the Beijing dialect
+- Learned the Mandarin language based on the Beijing dialect
 - Learned the art of the Yanmaodao sword, trained in the form of Qing dynasty
 - My father was well aware of the appearance of his actions, but believed they were necessary to advance the clan in this new era.
 - My father was also aware that if I was to return to Japan with an chance I would need to be able to ultimately fend for my self and reposition myself and our family. To do this I would need an intensive training of the body and mind.
