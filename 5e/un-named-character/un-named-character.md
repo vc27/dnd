@@ -49,7 +49,7 @@
 - Flaw:
 
 ### Chinese history
-- https://en.wikipedia.org/wiki/Qing_dynasty
+- [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty)
 
 ### Personal History
 
