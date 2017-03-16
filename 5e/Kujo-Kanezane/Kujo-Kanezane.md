@@ -8,6 +8,9 @@
 - Proficiency: 2
 - Background: Nobel
 - Languages: Common, Japanese, Mandarin (based on the Beijing dialect)
+- Starting Gold: g590
+
+- 40, 25, 25, 10 = 100
 
 # Abilities
 
@@ -39,9 +42,18 @@
 # Weapons
 
 - Yanmaodao sword, trained from a Qing dynasty
-- 2 Tanto
-- 6 Shuriken
-- 1 Themes Tools
+- 2 Tanto = 20
+- 6 Shuriken = 500
+- 1 Thieves Tools = 1
+- Unarmed Strike D4 + Dex
+
+# AC
+
+- Light Armor, Studded leather 12 + Dex mod (no max dex)
+
+# HP
+
+- 5 + 6 + 5 + 6 = 22
 
 # Feats
 
@@ -75,17 +87,17 @@ following benefits.
 - Personality Trait: Believes that I am the savior of the clan and the link between the old and new ways. I will purge my clan of it's greed and lies while re-forging the path its head.
 - Ideal: Our clan is will survive the restructuring of this new era
 - Bond: [Kujō clan](https://en.wikipedia.org/wiki/Kuj%C5%8D_family), [Kitano Tenmangū Shrine](https://en.wikipedia.org/wiki/Kitano_Tenmang%C5%AB)
-- Flaw: My family branch has been scandalized by moving to Beijing for years. I am now seen as an outsider though my status is still technically recognized.
+- Flaw: My family branch has been scandalized by moving to Beijing(Hunan) for years. I am now seen as an outsider though my status is still technically recognized.
 
 # History
 
 ### Chinese history
 
 - [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty)
-- Traveled to Beijing China with my parents
+- Traveled to Beijing China(Hunan) with my parents
 - Was trained by my fathers personal assistant in arts of martial warfare and espionage
 - Was trained to fight in simple hand to hand combat as well as Tantos and Shuriken
-- Was taught to speak and act as a Japanese noble
+- Was taught to speak and act as a Japanese(Zou) noble
 - Learned the Mandarin language based on the Beijing dialect
 - Learned the art of the Yanmaodao sword, trained in the form of Qing dynasty
 - My father was well aware of the appearance of his actions, but believed they were necessary to advance the clan in this new era.
