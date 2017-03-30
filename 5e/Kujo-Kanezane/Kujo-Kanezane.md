@@ -55,6 +55,14 @@
 
 - 5 + 6 + 5 + 6 = 22
 
+# Rogue Traits
+
+- lvl 1 - Expertise, Sneak attack, Thieve's Cant
+- lvl 2 - Cunning Action: Dash, Disengage, Hide - p192
+- lvl 3 - Roguish archetype: Bonus Proficiencies: Disguise kit and poisoner's it
+- lvl 3 - Roguish archetype: Assassinate - p97
+- lvl 4 - Ability score improvement
+
 # Feats
 
 ### Keen Mind
