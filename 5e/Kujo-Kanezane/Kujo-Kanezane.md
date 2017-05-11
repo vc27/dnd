@@ -53,7 +53,7 @@
 
 # HP
 
-- 5 + 6 + 5 + 6 = 22
+- 5 + 6 + 5 + 6 + 5 = 27
 
 # Rogue Traits
 
@@ -62,6 +62,7 @@
 - lvl 3 - Roguish archetype: Bonus Proficiencies: Disguise kit and poisoner's it
 - lvl 3 - Roguish archetype: Assassinate - p97
 - lvl 4 - Ability score improvement
+- lvl 5 - Uncanny Dodge
 
 # Feats
 
