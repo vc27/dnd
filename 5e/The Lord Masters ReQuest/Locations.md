@@ -6,7 +6,9 @@
 
 ### Flaceys Graveyard / Grove
 
--
+- the location is a grove of red woods
+- it is a tall quite space where footsteps are muted by the forrest floor
+- there is a graveyard toward the center of the grove
 
 ### Waters Well
 
@@ -20,6 +22,7 @@
 - no food is sold here, only drinks
 - there is a cellar door, it's not hidden, but its off limits
 - the wall of bottles seems to be split, right side appears to be normal drinks, left site seems to be store of glass vials, all full.
+- the left side of the wall also has a sign that appears to be written in a language that is no common
 
 ### Erylis lair
 
