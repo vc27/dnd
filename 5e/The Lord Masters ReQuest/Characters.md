@@ -28,13 +28,14 @@
 - white hair, petite
 - has an affinity for ...
 - Lives in an underground lair found by opening a grave and walking through the bottom of the casket
+- Is all about the cold, their lair has an eerie slow snow fall even though the lair is underground
 
 # Elren Flacey
 
 - Wizard - lvl 5
-- has a strange amount of duplicates
-- have a tendency to speak at the same time
 - drag queen who is very into sparkle and show
+- has a strange amount of duplicates
+- the duplicates have a tendency to speak at the same time
 
 # Karl Waters / Urathoth
 
