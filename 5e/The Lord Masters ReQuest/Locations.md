@@ -8,7 +8,10 @@
 
 - the location is a grove of red woods
 - it is a tall quite space where footsteps are muted by the forrest floor
-- there is a graveyard toward the center of the grove
+- there is a graveyard toward the center of the grove where an opening in the trees has been cleared
+- there are 3 rows of head stones which all seem to be exactly the same and oddly placed in a perfect grid
+- There is a small hut that appears to have been build onto the outside of one of the larger trees.
+- The door is clearly marked and light by what appears to be blue ever burning torches
 
 ### Waters Well
 
