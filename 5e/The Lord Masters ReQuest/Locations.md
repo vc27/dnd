@@ -1,3 +1,10 @@
+### Island of Morgue
+
+- Remote unknown Island
+- Haunted by an unknown evil
+- The evil is rooted in the Dead Kings Demon master
+- island is plagued by a hord of demons that attach themselves to other creatures who have been on the island too long or have a low constitution
+
 ### The Peninsula / Feritas Landing
 
 - The only known port
