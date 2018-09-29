@@ -2,6 +2,9 @@
 
 - Not much is known just yet
 - Only that this character is above 15th level and may even be Mythic
+- has a connection to the dead king
+- there is a secret reason he is sending poeple, he also has a demon attached to him
+- was the original attacker of the dead kings island and part of the reason why the island is so fucked
 
 # Master Morwenna Fera
 
@@ -33,6 +36,9 @@
 - Is all about the cold, their lair has an eerie slow snow fall even though the lair is underground
 
 ## Crony: Spider Queen
+
+- is controled by Erylis
+- can sting its victims with venom that will transform them into a spider like creature based on what ever exiting creature they currently are. so a human will gane one size category and grow extra spider legs plus a carapace and abdomen
 
 ## Crony: fleshy spider monsters
 
