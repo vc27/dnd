@@ -1,10 +1,10 @@
-# Lord Master
+# The Living King
 
-- Not much is known just yet
 - Only that this character is above 15th level and may even be Mythic
-- has a connection to the dead king
-- there is a secret reason he is sending poeple, he also has a demon attached to him
-- was the original attacker of the dead kings island and part of the reason why the island is so fucked
+- is actually a living version of the dead Kings demon companion.
+- 200 years ago the real person who was the living king went to the island to defeat the evil but was tricked by the mad king and his demon companion.
+- the demon killed the living king and grew a clone that it inhabited. this took two years
+- then the demon king returned to the kingdom claiming victory over the island
 
 # Master Morwenna Fera
 
@@ -18,7 +18,7 @@
 - druidic, hairy, extremely dirty and smells like an animal just gave birth to it
 - speaks with a strange lack of flow, almost broken common, but it always makes sense
 
-# The Dead King & his Demon Master
+# The Dead King & his Demon Companion
 
 # Feritas
 
