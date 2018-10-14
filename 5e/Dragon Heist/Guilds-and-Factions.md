@@ -1,4 +1,8 @@
-# Guilds
+# Guilds and Factions
+
+### Waterdeep City Watch
+
+![Waterdeep City Watch](images/Waterdeep-City-Watch.jpg)
 
 ### Xanathar's Thieves Guild
 
