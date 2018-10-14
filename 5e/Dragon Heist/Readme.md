@@ -1,4 +1,4 @@
-# [Characters](Characters.md)
+# [Characters](Characters)
 # [Guilds and Factions](Guilds-and-Factions.md)
 # [Locations](Locations.md)
 # [Encounters](Encounters.md)
