@@ -1,5 +1,13 @@
 # Characters
 
+### Durnan 5e
+
+Proprietor of the Yawning Portal.
+
+[Image credits](http://forgottenrealms.wikia.com/wiki/Durnan)
+
+![Durnan](images/Durnan-5e.jpg)
+
 ### Yagra Strongfist
 
 [Image credits](http://kingsway-role-playing-group.wikia.com/wiki/Yagra_Strongfist)
