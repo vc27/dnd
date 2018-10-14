@@ -1,12 +1,6 @@
 # Characters
 
-### Durnan 5e
-
-Proprietor of the Yawning Portal.
-
-[Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
-
-<img src="../images/Durnan-5e.jpg" width="400" />
+- [Durnan 5e](Durnan.md)
 
 ### Volothamp Geddarm 5e
 
