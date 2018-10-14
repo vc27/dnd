@@ -6,7 +6,7 @@ Proprietor of the Yawning Portal.
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-<img src="images/Durnan-5e.jpg" style="width:300px;height:auto;">
+<img src="images/Durnan-5e.jpg" width="300" />
 
 ### Bonnie
 
