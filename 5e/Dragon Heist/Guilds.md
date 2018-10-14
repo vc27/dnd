@@ -1,7 +1,13 @@
 # Guilds
 
-### Xanathars - Thieves Guild
+### Xanathar's Thieves Guild
 
-[Image credits](http://forgottenrealms.wikia.com/wiki/Xanathar%27s_Thieves%27_Guild?file=Xanathar%27s_Thieves%27_Guild_original.jpg)
+[Image credits](http://forgottenrealms.wikia.com/wiki/Xanathar%27s_Thieves%27_Guild?file=Xanathar%27sThieves%27GuildSymbol.jpg)
 
-![Xanathars - Thieves Guild](images/Xanathars-Thieves-Guild.jpg)
+![Xanathar Thieves Guild](Xanathars-Thieves-Guild.jpg)
+
+### Zhentarim Guild
+
+[Image credits](http://forgottenrealms.wikia.com/wiki/Zhentarim)
+
+![Zhentarim Guild](images/New-Zhentarim-Symbol.jpg)
