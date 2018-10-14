@@ -6,46 +6,46 @@ Proprietor of the Yawning Portal.
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-<img src="images/Durnan-5e.jpg" width="300" />
+<img src="images/Durnan-5e.jpg" width="400" />
 
 ### Bonnie
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-![Bonnie](images/Bonnie.jpg)
+<img src="images/Bonnie.jpg" width="400" />
 
 ### Jalester Silvermane
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-![Jalester Silvermane](images/Jalester-Silvermane.jpg)
+<img src="images/Jalester-Silvermane.jpg" width="400" />
 
 ### Obaya Uday
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-![Obaya Uday](images/Obaya-Uday.jpg)
+<img src="images/Obaya-Uday.jpg" width="400" />
 
 ### Yagra Strongfist
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-![Yagra Strongfist](images/Yagra-Strongfist.jpg)
+<img src="images/Yagra-Strongfist.jpg" width="400" />
 
 ### Meloon Wardragon
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
 
-![Meloon-Wardragon](images/Meloon-Wardragon.jpg)
+<img src="images/Meloon-Wardragon.jpg" width="400" />
 
 ### Xanathar of Xanathar's Thieves Guild
 
 [Image credits](http://forgottenrealms.wikia.com/wiki/Xanathar%27s_Thieves%27_Guild?file=Xanathar%27s_Thieves%27_Guild_original.jpg)
 
-![Xanathar](images/Xanathar.jpg)
+<img src="images/Xanathar.jpg" width="400" />
 
 ### Krentz - Xanathar Guild
 
 [Image credits](http://kingsway-role-playing-group.wikia.com/wiki/Krentz)
 
-![Krentz - Xanathar Guild](images/Krentz-Xanathar-Guild.jpg)
+<img src="images/Krentz-Xanathar-Guild.jpg" width="400" />
