@@ -8,6 +8,18 @@ Proprietor of the Yawning Portal.
 
 <img src="images/Durnan-5e.jpg" width="400" />
 
+### Volothamp Geddarm 5e
+
+[Image credits](http://forgottenrealms.wikia.com/wiki/Volothamp_Geddarm?file=Volo-5e.jpg)
+
+<img src="images/Volothamp-Geddarm-5e.jpg" width="400" />
+
+### Floon Blagmaar
+
+[Image credits](http://kingsway-role-playing-group.wikia.com/wiki/Floon_Blagmaar?file=40ad3d37b617b846d4fdghfgh7286b21a381840.jpg)
+
+<img src="images/Floon-Blagmaar.jpg" width="400" />
+
 ### Bonnie
 
 [Image credits](http://media.wizards.com/2018/dnd/dragon/21/DRA21_WDH_Preview_ff.pdf)
