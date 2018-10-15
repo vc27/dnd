@@ -27,8 +27,8 @@ List of things that are DM requests, possibilities and hooks. This story is all 
 
 **Long history with Waterdeep**
 
-- What ever personal history your character has with the city is your story.
-- But for the last 1-3 years you have been working with the team with Neverwinter as your base.
+- What ever personal history your character has with the Waterdeep is your story.
+- However, for the last 1-3 years your character have been working with the team out of the city of Neverwinter as your base.
 
 **Recent history with Waterdeep**
 
@@ -38,10 +38,17 @@ List of things that are DM requests, possibilities and hooks. This story is all 
 
 **Some one needs a connection to Volothamp Geddarm**
 
-- Through your trips to the city your party members has secured a job with [Volothamp Geddarm](Characters/Volothamp-Geddarm.md).
-- You have no info yet, this will be your first meeting.
-- You are to meet at the [Yawning Portal](Locations.md#yawning-portal)
+- Throughout your trips to Waterdeep someone *(or a couple of you)* in your party has secured a job with [Volothamp Geddarm](Characters/Volothamp-Geddarm.md).
+- Volo has given you no information yet, this will be your first meeting.
+- You are to meet Volo at the [Yawning Portal](Locations.md#yawning-portal)
 
-# Things to know
+# The Present
+
+- You and your team are living in Waterdeep.
+- You have recently arrived within the last 2 weeks.
+- The season is Autumn, which means you spent most of the spring and summer doing your reconnaissance.
+- Autumn is harvest season so there is a bustle in the city which is party why your team chose that time of year to make the move.
+
+# Things all of you know
 
 - Xanathar's Thieves Guild and the Zhentarim Guild are continuously battling in the city.
