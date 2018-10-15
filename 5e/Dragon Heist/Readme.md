@@ -19,24 +19,24 @@ List of things that are DM requests, possibilities and hooks. This story is all 
 
 ### Character hooks
 
-*Leaving Neverwinter*
+**Leaving Neverwinter**
 
 - Please give at least 1-2 reasons you pushed the team to leave the Neverwinter.
 - Maybe you cut the wrong purse, maybe you slept with the tavern owners wife, maybe your family is too well known for you to make a name.
 - What ever the reason, it can be easy or long, its just something to help me give you hooks outside of the standard module. More the better!
 
-*Long history with Waterdeep*
+**Long history with Waterdeep**
 
 - What ever personal history your character has with the city is your story.
 - But for the last 1-3 years you have been working with the team with Neverwinter as your base.
 
-*Recent history with Waterdeep*
+**Recent history with Waterdeep**
 
-- _as mentioned above_ Over the last year all of you have made at least one or two trips to the Waterdeep to secure local connections.
+- *(As mentioned above)* Over the last year all of you have made at least one or two trips to the Waterdeep to secure local connections.
 - These trips were done independently so as to not stir suspicions.
 - Because of these trips please select one contact from the [characters list](Characters).
 
-*Some one needs a connection to Volothamp Geddarm*
+**Some one needs a connection to Volothamp Geddarm**
 
 - Through your trips to the city your party members has secured a job with [Volothamp Geddarm](Characters/Volothamp-Geddarm.md).
 - You have no info yet, this will be your first meeting.
