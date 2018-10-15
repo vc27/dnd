@@ -6,13 +6,13 @@ Faerûn (pronounced: /feɪˈruːn/ fay-ROON[2] was a major continent on the plan
 
 [Image credits](http://forgottenrealms.wikia.com/wiki/Faer%C3%BBn)
 
-![Faerun](../images/Faerun.jpg)
+![Faerun](images/Faerun.jpg)
 
 ### Sword Coast North
 
 [Image credits](https://www.worldanvil.com/w/forgotten-realms-Jalerym/map/6b1e445d-1f6f-4ffe-8969-0ad38785aeb4)
 
-![Sword Coast North](../images/Sword-Coast-North.png)
+![Sword Coast North](images/Sword-Coast-North.png)
 
 ### Yawning Portal
 
