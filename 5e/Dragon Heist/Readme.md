@@ -23,7 +23,7 @@ The setting will be in Waterdeep City so please try to make your character someo
 
 **Dragon Heist Module**
 
-I'll be roughly following the module, but would like to keep things loose so we can keep things role play heavy since low level means badassery. With that in mind please be sure to come up with response for at least one of the hooks below.
+I'll be roughly following the module, but would like to play it loose so we can keep things role play heavy if we need to. With that in mind please be sure to come up with response for at least one of the hooks below.
 
 **Your Gang**
 
