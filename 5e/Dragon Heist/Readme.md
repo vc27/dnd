@@ -16,12 +16,17 @@ Welcome to the Waterdeep - Dragon Heist campaign! A little info dump then some r
 - 1st level
 - Races: Dwarf, Elf, Halfling, Human, Gnome, Half-Elf, Half-Orc, Tiefling
 - Starting Gold 100gp (please remember that your background will provide you with a package of starting equipment)
-- The setting will be in Waterdeep City so please try to make your character someone that will do well in a city scape or someone that is maybe attempting to leave their country life and become a city slicker.
+
+**The Setting**
+
+The setting will be in Waterdeep City so please try to make your character someone that will do well in a city scape or someone that is maybe attempting to leave their country life and become a city slicker.
 
 **Dragon Heist Module**
+
 I'll be roughly following the module, but would like to keep things loose so we can keep things role play heavy since low level means badassery. With that in mind please be sure to come up with response for at least one of the hooks below.
 
 **Your Gang**
+
 In an effort to give the group cohesion from the start everyone will be in the same gang. (gang, faction, team or what ever you want to call it) Your gang is transplanting itself from the northern city of Neverwinter.
 
 Your Gang (Name TBD) has been around for 3yrs the found "Ardwund" died about a year ago on a side job for some unsavory characters he owed money too. Since then the remainder of the gang has been doing one off trips to the Waterdeep making contact to setup a job big enough to score your own hideout.
