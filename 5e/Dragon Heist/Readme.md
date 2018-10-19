@@ -29,7 +29,7 @@ I'll be roughly following the module, but would like to play it loose so we can 
 
 In an effort to give the group cohesion from the start everyone will be in the same gang. (gang, faction, team or what ever you want to call it) Your gang is transplanting itself from the northern city of Neverwinter.
 
-Your Gang (Name TBD) has been around for 3yrs the found "Ardwund" died about a year ago on a side job for some unsavory characters he owed money too. Since then the remainder of the gang has been doing one off trips to the Waterdeep making contact to setup a job big enough to score your own hideout.
+Your Gang (Name TBD) has been around for 3yrs. The founder "Ardwund" died about a year ago on a side job with some unsavory characters he owed money too. Since Ardwund's death your gang has been doing individual recon trips to the Waterdeep to make contacts and setup a job big enough to score a hideout.
 
 ### Character hooks & history
 
@@ -39,19 +39,19 @@ Please give at least 1 reason your character is pushing the gang to leave Neverw
 
 **Scouting trips to Waterdeep**
 
-Over the last each of you has made at least one or two trips to the Waterdeep to either make local connections and learn the cities hierarchy.
+Over the last year each of you has made at least one or two trips to the Waterdeep to either make local connections and learn the cities hierarchy.
 
-As a result of these trips please select one contact from the [characters list](Characters). It doesn't matter if some of you choose the same NPC as your contact, just be sure it fits with your characters concept.
+As a result of these trips please select one contact from the characters list (pdf attached). Some of you may choose the same NPC as your contact and that's fine. Just be sure it fits with your characters concept.
 
 **Personal history with Waterdeep**
 
-You may have what ever personal history you like with Waterdeep. However, for the last year 1-2 years you have been in Neverwinter. You have visited water deep but you have not "lived" there for at least 1-2 years.
+You may have what ever personal history you like with Waterdeep. However, for the last year 1-2 years you have been in Neverwinter. You have visited water deep in the last 1-2 years but you have not "lived" there.
 
 # The Present
 
-Your Gang is currently living in Waterdeep and has been there for 1-2 weeks getting settled in. The season is Autumn, which means you spent most of the spring and summer doing your reconnaissance. Autumn is harvest season so there is a bustle in the city which is partly why your team chose this time of year to make the move.
+Your Gang is currently living in Waterdeep and has been there for 1-2 weeks getting settled in. The season is Autumn, which means you spent most of the spring and summer doing your reconnaissance. Autumn is harvest season causing a seasonal bustle in the city.
 
-You have a meeting at the [Yawning Portal](Locations.md#yawning-portal) secured by proxy. You've been told to meet there by one or more of your contacts. Word has it a rich patron has paid your contact to find him a lesser known gang for a difficult task. Your contact says he's mostly good for his money, at bear minimum you'll get paid to hear his pitch.
+You have a secret meeting at the [Yawning Portal](Locations.md#yawning-portal) secured by proxy. You've been told to meet there by one or more of your contacts. Word has it a rich patron has paid your contact to find him a lesser known gang for a difficult task. Your contact says the patron mostly good for their money, "at bear minimum you'll get paid 10gp each to hear their pitch".
 
 # Knowledge your Gang has accumulated
 
